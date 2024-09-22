@@ -1,12 +1,10 @@
-import Navbar from "./components/Navbar";
-import CurrencyTable from "./components/CurrencyTable";
+import CurrencyPage from "./pages/CurrencyPage";
 
 function App() {
   return (
     <>
       <section className="min-h-screen bg-gray-900 text-gray-200">
-        <Navbar />
-        <CurrencyTable />
+        <CurrencyPage />
       </section>
     </>
   );
