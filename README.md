@@ -2,7 +2,7 @@
 
 ### Assignment 4 - Project: Display Rate Currency on Program Web Development + React Bootcamp IBM X Hacktiv8
 
-Currency Tracker is a web application that displays the latest daily exchange rates and allows users to track buy/sell rates for various currencies (only for some currency for this project). This app uses data from a [free currency API](https://currencyfreaks.com) to fetch daily refreshed real-time information. **The demo website is deployed at [react-display-currency-rate.vercel.app](react-display-currency-rate.vercel.app)**.
+Currency Tracker is a web application that displays the latest daily exchange rates and allows users to track buy/sell rates for various currencies (only for some currency for this project). This app uses data from a [free currency API](https://currencyfreaks.com) to fetch daily refreshed real-time information. **The demo website is deployed at [react-display-currency-rate.vercel.app](https://react-display-currency-rate.vercel.app)**.
 
 ## Table of Contents
 
